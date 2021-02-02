@@ -1,0 +1,13 @@
+.nav{
+    position: fixed;
+    background-color:lightblue;
+    left: 0;
+    right: 0;
+    top:0;
+}
+ul{
+    width: 600px;
+    display:flex;
+    justify-content: space-around;
+    list-style: none;
+}
